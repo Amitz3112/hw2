@@ -1,7 +1,7 @@
 # Homework Assignment #2
 
-### Date: 17-06-2024
-### Due date: 01-07-2024, 15:00
+### Date: 07-04-2025
+### Due date: 21-04-2025, 15:00
 
 ## Question 1: Morse Code Interpreter
 
